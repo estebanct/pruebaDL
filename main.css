@@ -8,6 +8,7 @@
 
 .navbar-default {
     margin-bottom: 0px;
+    padding-right: 5px;
 }
 
 .carousel-width {
@@ -15,9 +16,27 @@
 }
 
 .foot-color { 
-    background-color: aqua;
+    background-color: #0060a8;
+    padding-bottom: 10px;
+    color: white;
 }
 
 .copy-center {
     text-align: center;
+    padding-top: 10px;
+}
+
+.noticias-dest {
+    padding-bottom: 15px;
+}
+
+.foot-list {
+    list-style: none;
+}
+
+.img-responsive {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    display:block;
 }
